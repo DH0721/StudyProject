@@ -30,7 +30,6 @@ public class Old {
     	
     	//¿¬³ªÀÌ
     	System.out.println(dy);
-    	System.out.println(dy);
 
 	}
 
